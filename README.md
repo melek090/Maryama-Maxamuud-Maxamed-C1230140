@@ -1,2 +1,2 @@
-# Maryam007
+# Homework Assignments
 java assigmnets
